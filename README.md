@@ -2,6 +2,10 @@
 
 This was a solo project from Scrimba where I had to make an interactive scoreboard where the points increase by either 1, 2, or 3. 
 
+> Link to deployed site
+
+https://scoreboard1234.netlify.app
+
 ### What I learnt from this Project
 
 - I learnt how to use figma to check the size and color of elements as well as the font weight.
